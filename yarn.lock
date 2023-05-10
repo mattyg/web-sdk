@@ -1052,10 +1052,10 @@
   resolved "https://registry.yarnpkg.com/@holo-host/wasm-key-manager/-/wasm-key-manager-1.0.0.tgz#32e5365ddc4518a01c17d2aba09d11bf3a042429"
   integrity sha512-GTfeQ2iYvYYrIkuaF0QupWP/y8sdItwL6Tr1osyaU7eUsWtGfpZqDcTZny8KNDdnQAEEP2nDWZORA/Z3EMJa3w==
 
-"@holochain/client@0.12.0":
-  version "0.12.0"
-  resolved "https://registry.yarnpkg.com/@holochain/client/-/client-0.12.0.tgz#1c9bdc082160badd1439962e8d5f30da6c4089a3"
-  integrity sha512-pvrB6Gdc6488iR3VZXoq5QKzoAPTGi0y69Ktrtgr/IZEvtSSHBqHeMhyEjXCa7iS8b1gXsL/HAvq47rs8mu50A==
+"@holochain/client@^0.12.5":
+  version "0.12.5"
+  resolved "https://registry.yarnpkg.com/@holochain/client/-/client-0.12.5.tgz#6cbfe32c33f94fb0689d986adeb43f2b43813303"
+  integrity sha512-9Q1G8sKEGsqnCl067CaRbzwPZZ5zeDCJdvQ8TJpb+psP2kLJBbHZ2qulMXAlNUz7Pg0l4B1Eh/BFJByJHRLlow==
   dependencies:
     "@holochain/serialization" "^0.1.0-beta-rc.3"
     "@msgpack/msgpack" "^2.7.2"
